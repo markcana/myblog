@@ -1,7 +1,8 @@
 +++
-date = '2026-02-02T19:13:00+08:00'
+title = "Using Linux"
 draft = false
-title = 'Using Linux'
+slug = "using-linux"
+date = '2026-03-02T19:13:00+08:00'
 +++
 
 ![Linux Logo](/images/1.1.png)
