@@ -3,10 +3,18 @@ languageCode = "en-us"
 title = "Pilo"
 theme = "PaperMod"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   author = "Mark Ople"
   ShowDate = true
-  mainSections = ["posts"]
+  # Add these lines:
+  showPostMeta = true
+  # ShowReadingTime = true
+  ShowBreadCrumbs = true
+  hideMeta = false
 
 [menu]
   [[menu.main]]
@@ -20,6 +28,12 @@ theme = "PaperMod"
     name = "About Me"
     url = "/about/"
     weight = 2
+
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
 
 [markup]
   [markup.goldmark.renderer]

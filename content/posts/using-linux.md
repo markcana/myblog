@@ -3,6 +3,7 @@ title = "Using Linux"
 draft = false
 slug = "using-linux"
 date = '2026-02-02T19:13:00+08:00'
+tags = ["Linux"]
 +++
 
 ![Linux Logo](/images/1.1.png)

@@ -1,0 +1,43 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+    </h1>
+    
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+    </div>
+
+    <!-- MOVED TAGS TO TOP HERE -->
+    {{- if .Params.tags }}
+    <ul class="post-tags" style="margin-top: 10px; margin-bottom: 20px; list-style: none; display: flex; gap: 10px; padding: 0;">
+      {{- range .Params.tags }}
+      <li><a href="{{ "tags/" | absLangURL }}{{ . | urlize }}/" style="background: var(--code-bg); padding: 2px 8px; border-radius: 4px; font-size: 14px;">#{{ . }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if .Param "ShowToc" }}
+    {{- partial "toc.html" . }}
+    {{- end }}
+    {{- .Content }}
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    <!-- Tags were here; they are now removed from footer -->
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}
