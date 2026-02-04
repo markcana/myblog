@@ -2,4 +2,4 @@
 
 Live site: [https://pilomyblog.netlify.app](https://pilomyblog.netlify.app)
 
-Currently in version 2.
+The version 2 is being rebuild atm.
