@@ -20,23 +20,19 @@ I use a second hand Thinkpad x395 as my daily driver with GNU/Linux as its opera
 
 **What I do?**
 
-I'm an Associate Software Engineer specializing in Salesforce.
+I'm an Junior Software Engineer specializing in Salesforce.
 
 ---
 
 **Hobbies & Interests**
+
+*Combat sports(just a watcher)*
 
 *Miscrits: Worlds of Adventures*
 
 *Things that looks Retro*
 
 *Running*
-PR:
-- 5km : 21:47
-- 10km : 45:46
-- 16km : 1:15:43
-- 21km : 1:48:03
-
 
 ---
 
@@ -51,4 +47,4 @@ PR:
 
 **This Website**
 
-This site is built using **Hugo** with **Papermod** theme. If possible, I don't like bloat.
+This site is built using **Hugo** with **Papermod** theme. Simple, fast, and not bloated.
