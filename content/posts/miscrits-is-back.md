@@ -35,4 +35,4 @@ There’s a good balance of old and original content, like maps and Miscrits, wh
 
 Miscrits certainly is part of my life growing up. And right now, as a working adult, whenever I have free time or I’m commuting to work, I play it to kill time and as a breather. I want the game to succeed not just because of nostalgia, but because it’s genuinely a fun game.
 
-Check out their Official Page and Discord.
+Check out their [Official Page](https://worldofmiscrits.com/) and [Discord](https://discord.com/invite/miscritsback).
