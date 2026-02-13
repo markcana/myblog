@@ -31,7 +31,7 @@ The official return date was May 25, 2025, and this time it’s available on mul
 There’s a good balance of old and original content, like maps and Miscrits, which gives excitement to both old and new players alike. The game is now much better balance-wise, with regular patches that give different Miscrits their own niches and promote creative team building.
 
 ![Miscrits Picture](/images/2.4.jpg)
-<p align="center"><small>In the present.</small>
+<p align="center"><small>In the present</small>
 
 Miscrits certainly is part of my life growing up. And right now, as a working adult, whenever I have free time or I’m commuting to work, I play it to kill time and as a breather. I want the game to succeed not just because of nostalgia, but because it’s genuinely a fun game.
 

@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Pilo"
 theme = "PaperMod"
 
+copyright = "No Copyright"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -10,7 +12,6 @@ theme = "PaperMod"
 [params]
   author = "Mark Ople"
   ShowDate = true
-  # Add these lines:
   showPostMeta = true
   # ShowReadingTime = true
   ShowBreadCrumbs = true

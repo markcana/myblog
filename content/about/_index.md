@@ -3,7 +3,7 @@ title: "About Me"
 date: 2026-02-03
 ---
 
-Hi! I'm **Mark Caña** or **Mark Ople** or **Pilo** any of these will do.  
+Hi! I'm **Mark**.  
 
 Welcome to my blog! There will no specific type of topic here but feel free to look anything.
 
